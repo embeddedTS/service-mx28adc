@@ -105,7 +105,7 @@ void ADC(const Nan::FunctionCallbackInfo<v8::Value>& info) {
   for (i=0;i<8;i++) {
     Nan::Set(sample,i,Nan::New<v8::Number>((int)chan[i]));
   }
-  info.GetReturnValue().Set(num);
+  info.GetReturnValue().Set(sample);
 }
 
 void Init(v8::Local<v8::Object> exports) {
