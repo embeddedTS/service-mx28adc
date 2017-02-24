@@ -8,7 +8,7 @@ function Server(req,res,next) {
     console.log("MX28ADC:"+req.path)
     res.setHeader("Content-Type","text/plain")
     var values = mx28adc.get()
-    res.send(value.join("\n"))
+    res.send(values.join("\n"))
 }
 
 var endpoint = "/adc/"
