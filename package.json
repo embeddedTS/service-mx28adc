@@ -1,0 +1,17 @@
+{
+  "name": "server-mx28adc",
+  "version": "1.0.0",
+  "description": "MX28ADC Service",
+  "main": "mx28adc.js",
+  "dependencies": {
+      "server": "git+ssh://oz.embeddedarm.com/u/gitroot/node/server.git",
+      "nan": "^2.5.1",
+      "bindings":"^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "gypfile":true,
+  "author": "Michael Schmidt",
+  "license": "UNLICENSED"
+}
