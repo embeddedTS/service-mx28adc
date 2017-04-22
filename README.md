@@ -54,8 +54,7 @@ To get the current state of the 8 ADCs on the board, issue an HTTP GET request t
 
 # To Do
 
-Allow the memory base address to be configurable so as to support more boards.  Currently 
-
+Allow the memory base address to be configurable so as to support more boards.
 
 # Copyright
 
