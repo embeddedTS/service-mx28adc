@@ -13,12 +13,12 @@
   "gypfile":true,
   "repository": {
 	"type": "git",
-	"url": "git+ssh://git@github.com/michael-ts/service-mx28adc.git"
+	"url": "git+ssh://git@github.com/embeddedarm/service-mx28adc.git"
     },
   "bugs": {
-	"url": "https://github.com/michael-ts/service-mx28adc/issues"
+	"url": "https://github.com/embeddedarm/service-mx28adc/issues"
   },
-  "homepage": "https://github.com/michael-ts/service-mx28adc#readme",
+  "homepage": "https://github.com/embeddedarm/service-mx28adc#readme",
   "author": "Michael Schmidt",
   "license": "UNLICENSED"
 }
