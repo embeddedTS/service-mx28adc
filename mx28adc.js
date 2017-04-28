@@ -15,6 +15,6 @@ module.exports = function(app,exports,options) {
     if (options && typeof options == "string") {
 	endpoint = options
     }
-    Log("service mma8451 ",endpoint)
+    Log("service mx28adc ",endpoint)
     app.use(endpoint, Server)
 }
