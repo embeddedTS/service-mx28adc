@@ -1,6 +1,6 @@
 {
   "name": "service-mx28adc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "MX28ADC Service",
   "main": "mx28adc.js",
   "dependencies": {
