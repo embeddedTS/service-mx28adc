@@ -1,6 +1,6 @@
 {
   "name": "service-mx28adc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MX28ADC Service",
   "main": "mx28adc.js",
   "dependencies": {
@@ -20,5 +20,5 @@
   },
   "homepage": "https://github.com/embeddedarm/service-mx28adc#readme",
   "author": "Michael Schmidt",
-  "license": "UNLICENSED"
+  "license": "GPL 3.0"
 }
