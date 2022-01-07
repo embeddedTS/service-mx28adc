@@ -9,7 +9,7 @@ If a string option is presented upon initialization, it is the base endpoint to 
 
     npm install service-mx28adc
 
-The device you are running on must have an iMX28 CPU.  This code has been tested on a Technologic Systems [TS-7680](https://wiki.embeddedarm.com/wiki/TS-7680) which has a Freescale i.MX286 454MHz ARMv5TE ARM926EJ-S CPU.
+The device you are running on must have an iMX28 CPU.  This code has been tested on a embeddedTS [TS-7680](https://wiki.embeddedTS.com/wiki/TS-7680) which has a Freescale i.MX286 454MHz ARMv5TE ARM926EJ-S CPU.
 
 Currently only boards with CPU registers at these physical addresses are supported (see TODO below):
 
